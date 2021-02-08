@@ -1,7 +1,7 @@
 {
   "name": "to-do-app",
   "version": "0.1.0",
-  "homepage": "https://github.com/rdyer07/to-do-app.git",
+  "homepage": "https://rdyer07.github.io/to-do-app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
